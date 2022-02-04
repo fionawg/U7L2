@@ -20,7 +20,6 @@ public class ArrayListTest
 
         numList.add(1, numList.size());
 
-
         numList.remove(4);
 
         numList.set(numList.size()-1, 0);
